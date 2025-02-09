@@ -1,0 +1,12 @@
+1️⃣ User & Group Management
+
+Task:
+a. Create a user devops_user and add them to a group devops_team.
+b. Set a password and grant sudo access.
+c. Restrict SSH login for certain users in /etc/ssh/sshd_config.
+
+a. Create a user devops_user and add them to a group devops_team
+Commands used: 
+
+Output Screenshot: No user named devops_user present in the virtual machine
+
