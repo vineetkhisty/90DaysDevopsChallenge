@@ -34,4 +34,3 @@ This Bash script allows system administrators to easily manage Linux user accoun
 
 ```bash
 bash user_management.sh [option]
-##
