@@ -1,6 +1,6 @@
 #!/bin/bash
 ####### Script to manage user accounts ############################
-if [[ "$1" == "--create" ]]; ### To create the user account
+if [[ "$1" == "--create" ]]; ### To create the user account   
 then
         read -p "Enter username:" username
         read -s -p "Enter Password:" password
